@@ -8,4 +8,4 @@ you can still find a few projects and tools I’ve worked on or explored.
 📫 Get in Touch
 
 - Raise an issue on this repository, I will respond as soon as I can.
-- Email: [m100k300@duck.com]
+- Email: [m100k300@duck.com](mailto:m100k300@duck.com)
